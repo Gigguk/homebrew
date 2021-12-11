@@ -752,7 +752,7 @@
 		},
 		{
 			"race": {
-				"name": "Half-Elf (Variant)",
+				"name": "Half-Elf (Base)",
 				"source": "PHB"
 			},
 			"name": "Khoravar",
@@ -815,7 +815,7 @@
 		},
 		{
 			"race": {
-				"name": "Half-Elf (Variant)",
+				"name": "Half-Elf (Base)",
 				"source": "PHB"
 			},
 			"name": "Ill-Born Aereni",
@@ -879,7 +879,7 @@
 		},
 		{
 			"race": {
-				"name": "Half-Elf (Variant)",
+				"name": "Half-Elf (Base)",
 				"source": "PHB"
 			},
 			"name": "Ill-Born Valenar",
@@ -951,7 +951,7 @@
 		},
 		{
 			"race": {
-				"name": "Half-Elf (Variant)",
+				"name": "Half-Elf (Base)",
 				"source": "PHB"
 			},
 			"name": "Ill-Born Vulkoori Drow",
@@ -1028,7 +1028,7 @@
 		},
 		{
 			"race": {
-				"name": "Half-Elf (Variant)",
+				"name": "Half-Elf (Base)",
 				"source": "PHB"
 			},
 			"name": "Ill-Born Sulatar Drow",
